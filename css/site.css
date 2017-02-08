@@ -1,0 +1,57 @@
+body
+{
+	margin: 0;
+	padding: 0;
+}
+
+.confirm-div
+{
+	width: 100%;
+	background: #6972a7;
+	padding: 15px;
+}
+
+.confirm-div h1
+{
+	text-align: center;
+	margin: 0;
+	color: #fff;
+	font-family: arial;
+}
+
+#upload_file
+{
+	background: #ccc;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+}
+
+#upload_file table
+{
+	margin: 0 auto;
+	padding: 30px;
+	line-height: 30px;
+}
+
+#upload_file input
+{
+	height: 25px;
+}
+
+#submit
+{
+	background: #6972a7;
+	color: #fff;
+	padding: 10px;
+	cursor: pointer;
+	height: 35px !important;
+	width: 150px;
+}
+
+.button
+{
+	text-align: center;
+	padding-bottom: 15px;
+}
